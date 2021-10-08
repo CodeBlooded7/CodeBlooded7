@@ -1,8 +1,8 @@
 ### Hi there, I'm Prateek Surana 👋
-### I'm a 4th year student, studying in BITS Pilani, Pilani campus
+### I'm a 4th year student, studying in BITS Pilani, Pilani campus🎓.
 <!--
 **CodeBlooded7/CodeBlooded7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Currently fixated on competitive programming and exploring the fascinating worlds of Artificial Intelligence and Machine Learning.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
