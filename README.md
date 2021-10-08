@@ -2,6 +2,7 @@
 ### I'm a 4th year student, studying in BITS Pilani, Pilani campus🎓.
 
 - Currently fixated on competitive programming and exploring the fascinating worlds of Artificial Intelligence and Machine Learning.
+- 2021 Goals: Better my competitive programming skills and explore more in the field of Computer Vision
 - ⚡ Fun fact: I love hiking ⛰️ and binge watching web series.
 <!--
 **CodeBlooded7/CodeBlooded7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
