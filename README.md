@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I'm Prateek Surana 👋
+### I'm a 4th year student, studying in BITS Pilani, Pilani campus
 <!--
 **CodeBlooded7/CodeBlooded7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
